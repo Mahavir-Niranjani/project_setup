@@ -1,0 +1,15 @@
+{
+  "name": "project_setup",
+  "version": "1.0.0",
+  "description": "This project setup is created for best practices and industry level project.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Mahavir N.",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
